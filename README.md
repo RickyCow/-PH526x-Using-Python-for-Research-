@@ -35,4 +35,4 @@ This collection of six case studies from different disciplines provides opportun
 Linear Regression, Logistic Regression, Random Forests for Regression and Classifcation
 
 ## Certificate of Completion
-You can see the [Certificate of Completion](https://courses.edx.org/certificates/2469d9785d364052994a2b62d27f02fb) and other certificates in my [Certificates Repo]() that contains all my certificates
+You can see the [Certificate of Completion](https://courses.edx.org/certificates/2469d9785d364052994a2b62d27f02fb) and other certificates in my [Certificates Repo](https://github.com/RickyCow/Certificate-Repo) that contains all my certificates.
